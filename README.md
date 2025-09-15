@@ -10,6 +10,7 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6B6B?style=flat-square&logo=google&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20DB-4285F4?style=flat-square&logo=redis&logoColor=white)
 
+
 ### Frontend
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
