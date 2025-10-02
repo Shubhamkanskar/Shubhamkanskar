@@ -3,15 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kanaskar-237280157)
 
 # 💻 Tech Stack
-
-
-
-
-
-
-
-
-
 ### GenAI & AI
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9900?style=flat-square&logo=openai&logoColor=white)
