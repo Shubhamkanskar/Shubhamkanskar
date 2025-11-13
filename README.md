@@ -50,9 +50,4 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Shubhamkanskar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shubhamkanskar&theme=radical&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkanskar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
