@@ -28,7 +28,6 @@ I'm a full-stack developer focused on building SaaS products, AI-powered documen
 
 | Project | Description |
 |---|---|
-| **Industrility** | Industrial asset management platform with AI-powered inspections, maintenance workflows, and role-based access (L1–L5) |
 | **DocGPT** | PDF intelligence tool — extracts structured data from complex engineering documents into XLSX/DOCX using Gemini API |
 | **SwingIQ** | AI swing trading scanner for NSE — daily top-5 setups with entry, stop-loss & target levels via web + Telegram |
 
