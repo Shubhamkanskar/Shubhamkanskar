@@ -4,7 +4,7 @@
 
 **Full-Stack Developer & Entrepreneur** · Pune, India
 
-Building AI-powered products at the intersection of industrial tech and developer tooling.
+Building AI-powered SaaS products and scalable cloud infrastructure.
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/Shubhamkanskar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kanaskar-237280157)
@@ -15,11 +15,10 @@ Building AI-powered products at the intersection of industrial tech and develope
 
 ## About Me
 
-I'm a full-stack developer focused on building SaaS products, AI-powered document pipelines, and industrial IoT platforms. I move fast — from idea to deployed product — and care deeply about clean architecture and real-world impact.
+I'm a full-stack developer focused on building SaaS products and AI-powered document pipelines. I move fast — from idea to deployed product — and care deeply about clean architecture and real-world impact.
 
-- 🔭 Currently building **[Industrility](https://github.com/Shubhamkanskar)** — an AI-powered industrial asset & maintenance platform
 - 🧠 Exploring **SwingIQ** — an AI-driven NSE swing trading scanner with daily setups + Telegram alerts
-- ⚡ Working with Gemini API, AWS Serverless, and graph databases (Neptune/Gremlin)
+- ⚡ Working with Gemini API, AWS Serverless, Lambda, OpenSearch & graph databases
 - 📍 Based in Pune, India
 
 ---
@@ -28,7 +27,6 @@ I'm a full-stack developer focused on building SaaS products, AI-powered documen
 
 | Project | Description |
 |---|---|
-| **DocGPT** | PDF intelligence tool — extracts structured data from complex engineering documents into XLSX/DOCX using Gemini API |
 | **SwingIQ** | AI swing trading scanner for NSE — daily top-5 setups with entry, stop-loss & target levels via web + Telegram |
 
 ---
@@ -53,15 +51,26 @@ I'm a full-stack developer focused on building SaaS products, AI-powered documen
 **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+**AWS & Cloud**
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![AWS Rekognition](https://img.shields.io/badge/AWS%20Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Serverless](https://img.shields.io/badge/serverless-FD5750.svg?style=flat-square&logo=serverless&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=flat-square&logo=serverless&logoColor=white)
 
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-121212?style=flat-square&logo=convex&logoColor=white)
+![Amazon Neptune](https://img.shields.io/badge/Amazon%20Neptune-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
